@@ -1,0 +1,9 @@
+Git clone  project branch-url
+
+git checkout   branch-name-  existing
+
+git checkout  -b branch-name - new branch
+
+Git pull origin branch-name - get changes from main branch
+
+Visual studio code 
